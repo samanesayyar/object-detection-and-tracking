@@ -14,8 +14,6 @@
 
 I have tested on Ubuntu 16.04/18.04. The code may work on other systems.
 
-[[Ubuntu-Deep-Learning-Environment-Setup]](https://github.com/yehengchen/Ubuntu-Deep-Learning-Environment-Setup)
-
 * ##### Ubuntu 16.04 / 18.04 
 * ##### ROS Kinetic / Melodic
 * ##### GTX 1080Ti / RTX 2080Ti
