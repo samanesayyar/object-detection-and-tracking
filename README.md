@@ -1,6 +1,4 @@
 ss
-ss
-
 <h1 align="center">
   Object Detection and Tracking
 </h1>
